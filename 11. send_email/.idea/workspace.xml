@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="505d65a5-d77e-4a55-acf4-ceccf8078f46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../10. GZip/.idea/10. GZip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. GZip/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. GZip/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. GZip/node.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/11. send_email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NET SMTP/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. template_echo/.idea/4. template_echo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. template_echo/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. template_echo/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. template_echo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. template_echo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. middleware/.idea/5. middleware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. middleware/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. enviroment/.idea/6. enviroment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/.idea/7. gorilla_cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. gorilla_cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. gorilla_session/.idea/8. gorilla_session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. gorilla_session/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. gorilla_session/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. gorilla_session/session_with_cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. gorilla_session/session_with_mongo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. cors/.idea/9. cors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. cors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. cors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. cors/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. cors/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/.idea/cro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/api_cro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/config/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/config/database.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/controllers/C_auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/controllers/C_general.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/controllers/C_replenish.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/controllers/C_shortage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/middlewares/cors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/models/M_auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/models/M_general.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/models/M_replenish.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/models/M_shortage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/service/S_bristars.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/struct/Auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cro/struct/Response.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. custom request validate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. custom request validate/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1wcaxzdHDJ8CelDe88Qk23yAoiz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../12. excel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DOCUMENT BRI\lesson_golang_echo\11. send_email" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DOCUMENT BRI\lesson_golang_echo\11. send_email\NET SMTP" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628763893450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628763893450" />
+  </component>
+</project>
